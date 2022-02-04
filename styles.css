@@ -51,3 +51,11 @@ p {
 .tdColor {
   border: tomato;
 }
+
+img {
+  width: 200px;
+}
+
+.test {
+  color: yellowgreen;
+}
